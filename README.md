@@ -10,3 +10,5 @@ To mention in a summarized format, this research :
 •	Optimize performance: Integrate machine learning for real-time anomaly detection, adaptive basis selection, and improved error correction.
 •	Security analysis: Conduct thorough analysis against known and future eavesdropping techniques, identifying vulnerabilities and optimizing system parameters for enhanced security.
 
+![image](Picture 1.png)
+
